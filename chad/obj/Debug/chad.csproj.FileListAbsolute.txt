@@ -1,0 +1,15 @@
+C:\Users\j-dog\RiderProjects\chad\chad\bin\Debug\chad.exe.config
+C:\Users\j-dog\RiderProjects\chad\chad\bin\Debug\chad.exe
+C:\Users\j-dog\RiderProjects\chad\chad\bin\Debug\chad.pdb
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.csprojAssemblyReference.cache
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\MainWindow.g.cs
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\App.g.cs
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad_MarkupCompile.cache
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad_MarkupCompile.lref
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\MainWindow.baml
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.g.resources
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.Properties.Resources.resources
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.csproj.GenerateResource.cache
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.csproj.CoreCompileInputs.cache
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.exe
+C:\Users\j-dog\RiderProjects\chad\chad\obj\Debug\chad.pdb
